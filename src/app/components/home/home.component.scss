@@ -60,6 +60,12 @@ main {
   }
 }
 
+.cta-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 @media (max-width: 1800px) {
   .main-section {
     flex-direction: row;
